@@ -760,33 +760,3 @@ https://sc.id-tv.kz/TuranTV.m3u8
 http://streaming.astrakhan.ru/telplushd/playlist.m3u8
 #EXTINF:-1 tvg-id="" status="online",Такт/Рен ТВ (Курск) (294p) [Not 24/7]
 http://109.194.62.29:8080
-#EXTINF:-1 tvg-id="" status="blocked",Радио 10 (1024p) [Not 24/7]
-http://langate.tv/acc/playlist.m3u8
-#EXTINF:-1 tvg-id="" status="blocked",ЯМАЛ 1
-https://bl.rutube.ru/livestream/eff3ed0c2cdde88e8c5fdc515aee2c9f/index.m3u8?e=1653312522&s=rAfTRV43vtwOtE12zJ8UQQ&scheme=https
-#EXTINF:-1 tvg-id="" status="blocked",Продвижение (1080p) [Geo-blocked]
-https://strm.yandex.ru/kal/prodvizheniye/prodvizheniye0.m3u8
-#EXTINF:-1 tvg-id="" status="timeout",HD life (1080p) [Not 24/7]
-http://37.193.6.155:34040/udp/239.1.9.2:1234
-#EXTINF:-1 tvg-id="" status="timeout",Шокирующее (540p)
-http://185.97.150.19:8082/2401
-#EXTINF:-1 tvg-id="" status="timeout",ВТВ Плюс (Херсон) (576p)
-http://193.107.128.8:8552/play/a007
-#EXTINF:-1 tvg-id="" status="timeout",ТВЦ (Международный) (576p)
-http://ad-hls-tvc.cdnvideo.ru/tvc-p222/smil:tvc.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" status="timeout",ВТВ Плюс (Херсон) (576p)
-http://iptv.rubintele.com:8552/play/a007
-#EXTINF:-1 tvg-id="" status="timeout",Русский Экстрим
-http://vid.extremtv.ru/hls_get/cameraFeed.m3u8
-#EXTINF:-1 tvg-id="" status="timeout",Россия РТР
-https://a3569455801-s26881.cdn.ngenix.net/live/smil:rtrp.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" status="timeout",Россия 1 +6 (360p)
-https://gtrkchita.ru:8081/hls/r1-chita_360p.m3u8
-#EXTINF:-1 tvg-id="" status="error",Первый канал (576p)
-http://91.185.3.218:4000/play/603
-#EXTINF:-1 tvg-id="" status="error",Россия К (576p) [Not 24/7]
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k/playlist.m3u8
-#EXTINF:-1 tvg-id="" status="error",Россия РТР (576p) [Not 24/7]
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" status="error",Телестанция МИР (Новосибирск) (720p) [Not 24/7]
-http://serv30.vintera.tv:8081/stanciya_mir/mir/playlist.m3u8
